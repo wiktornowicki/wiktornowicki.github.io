@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+body
+{
+	background-color: #212121;
+	font-family: 'Raleway';
+	color: #f0f0f0;
+}
+
+.topHeader
+{
+	width: 600px;
+	height: 40px;
+	margin: 0 auto;
+	border-bottom: 1px solid #b2b2b2;
+	text-align: center;
+}
+
+.art1
+{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.art2
+{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.artHeader2
+{
+	width: 100%;
+	height: 30px;
+	border-bottom: 1px solid #b2b2b2;
+}
+
+.art3
+{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.artHeader3
+{
+	width: 100%;
+	height: 30px;
+	border-bottom: 1px solid #b2b2b2;
+}
+
+.art4
+{
+	width: 600px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.artHeader4
+{
+	width: 100%;
+	height: 30px;
+	border-bottom: 1px solid #b2b2b2;
+}
+
+a:hover
+{
+	font-weight: bold;
+}
+
+a:link
+{
+	color: #b2ffff;
+	text-decoration: underline;
+}
+
+a:link:active
+{
+	color: #b2ffff;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+a:visited
+{
+	color: #ffb2ff;
+	text-decoration: underline;
+}
+
+a:visited:active
+{
+	color: #ffb2ff;
+	text-decoration: underline;
+	font-weight: bold;
+}
