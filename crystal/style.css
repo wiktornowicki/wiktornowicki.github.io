@@ -73,25 +73,25 @@ a:hover
 a:link
 {
 	color: #b2ffff;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a:link:active
 {
 	color: #b2ffff;
-	text-decoration: underline;
+	text-decoration: none;
 	font-weight: bold;
 }
 
 a:visited
 {
 	color: #ffb2ff;
-	text-decoration: underline;
+	text-decoration: none;
 }
 
 a:visited:active
 {
 	color: #ffb2ff;
-	text-decoration: underline;
+	text-decoration: none;
 	font-weight: bold;
 }
